@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-land/static/css/main.2ff9f85b.css",
+    "main.js": "/movie-land/static/js/main.b136872b.js",
+    "static/js/787.c636f202.chunk.js": "/movie-land/static/js/787.c636f202.chunk.js",
+    "index.html": "/movie-land/index.html",
+    "static/media/search.svg": "/movie-land/static/media/search.49142d998569fcbe011419693054ac54.svg",
+    "main.2ff9f85b.css.map": "/movie-land/static/css/main.2ff9f85b.css.map",
+    "main.b136872b.js.map": "/movie-land/static/js/main.b136872b.js.map",
+    "787.c636f202.chunk.js.map": "/movie-land/static/js/787.c636f202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff9f85b.css",
+    "static/js/main.b136872b.js"
+  ]
+}
